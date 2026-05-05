@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-o7cf3n.doorprizecw88.com/sitemap.xml
